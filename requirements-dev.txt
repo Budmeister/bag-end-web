@@ -1,0 +1,4 @@
+# The standard-library unittest runner needs no package. Pin the database driver.
+psycopg==3.2.12
+psycopg-binary==3.2.12
+typing-extensions==4.16.0; python_version < '3.13'

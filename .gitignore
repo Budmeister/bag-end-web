@@ -1,5 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+backups/
+*.dump
+*.sql.gz
+.DS_Store
+._*
 *.py[codz]
 *$py.class
 
